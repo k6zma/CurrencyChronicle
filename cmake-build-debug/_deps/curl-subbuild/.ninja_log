@@ -1,0 +1,21 @@
+# ninja log v5
+12	2189	1713474593642746127	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	ab27f75d366d0afc
+2227	2237	1713474593691095760	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	51c60344495866da
+2189	2199	1713474593652587825	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	4f1af63bc3cc56d8
+0	12	1713474591466142898	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	2fde48280ce84286
+2247	2260	1713474593714308451	CMakeFiles/curl-populate-complete	e89137da328aef8
+2199	2208	1713474593662481730	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	e293caf4ed714036
+0	12	1713474591466142898	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	2fde48280ce84286
+2247	2260	1713474593714308451	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	e89137da328aef8
+2208	2218	1713474593671995976	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	7fc3e83f960ea996
+12	2189	1713474593642746127	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	ab27f75d366d0afc
+2208	2218	1713474593671995976	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	7fc3e83f960ea996
+2247	2260	1713474593714308451	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	e89137da328aef8
+2189	2199	1713474593652587825	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	4f1af63bc3cc56d8
+2218	2227	1713474593681401767	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	c638228da0c858f2
+2199	2208	1713474593662481730	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	e293caf4ed714036
+2227	2237	1713474593691095760	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	51c60344495866da
+2247	2260	1713474593714308451	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	e89137da328aef8
+2237	2247	1713474593700794419	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	a82837b032d3d084
+2237	2247	1713474593700794419	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	a82837b032d3d084
+2218	2227	1713474593681401767	/Users/k6zma/Documents/Projects/CurrencyChronicle/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	c638228da0c858f2

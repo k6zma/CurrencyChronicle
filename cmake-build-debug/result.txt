@@ -1,0 +1,4 @@
+API Request Successful
+Currency Conversion: From "USD" to "RUB"
+Date: 2024-04-18
+Amount in RUB: 94.1501
